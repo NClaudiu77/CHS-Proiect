@@ -65,7 +65,7 @@ Dezavantaje :
 > * https://github.com/dengdan/seglink
 
 
-Implentarea mea doreste sa porteze un sistem OCR pe un sistem embedded orientat pe aplicatii de AI si IOT si anume Maixduino.
+Implementarea mea doreste sa porteze un sistem OCR pe un sistem embedded orientat pe aplicatii de AI si IOT si anume Maixduino.
 Sistem bazat pe algoritmi de Deep Learning implementati cu ajutorul bibliotecilor Tensorflow,  Numpy, TensorflowLite.
 
 
