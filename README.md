@@ -2,7 +2,7 @@
 
 ## OCR - Recunoasterea optica a caracterelor
 
-OCR reprezinta translatarea electronica sau mecanica a textului(fie printat, fie scris de mana)
+OCR reprezinta translatarea electronica sau mecanica a caracterelor (text fie printat, fie scris de mana)
 dintr-un document scanat, dintr-o imagine in text in format electronic. OCR e un subdomeniu al cercetarii aflat la intersectia domeniilor Pattern Recognition,
 AI, Computer Vision.
 
@@ -17,7 +17,8 @@ AI, Computer Vision.
 > * imagini neclare, distorsionate; text inclinat, rotit, incomplet;
 > * existenta multiplelor fonturi
 > * in cazul textului scris de mana, exista o mare variatie a modului 
-	in care se poate scrie un caracter, ceea ce face si mai dificila problema
+	in care se poate scrie un caracter, suprapuneri de caractere, 
+	ceea ce face si mai dificila problema
 
 Pentru mai multe informatii: https://en.wikipedia.org/wiki/Optical_character_recognition
 
@@ -60,3 +61,9 @@ Dezavantaje :
 ## Multipe modele de detectie/recunoastere a textului
 > * https://github.com/clovaai/CLEval
 > * https://github.com/dengdan/seglink
+
+
+Implentarea mea doreste sa porteze un sistem OCR pe un sistem embedded orientat pe aplicatii de AI si IOT si anume Maixduino.
+Sistem bazat pe algoritmi de Deep Learning implementati cu ajutorul bibliotecilor Tensorflow,  Numpy, TensorflowLite.
+
+
