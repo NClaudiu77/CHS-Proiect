@@ -25,6 +25,9 @@ Pentru mai multe informatii: https://en.wikipedia.org/wiki/Optical_character_rec
 # State-Of-The-Art
 
 ## Tesseract -> https://github.com/tesseract-ocr
+ 
+<div class = "image" float="left"><img src = imgs/text.jpg alt="text image" /></div>
+<div class = "image" float="right"><img src = imgs/tess_text.png alt="text processed with tesseract" /></div>
  Sistem OCR open-source, dezvoltat initial de HP, ca mai apoi sa fie lansat
  ca fiind open source iar din 2006 este  dezvoltat si intretinut de cei de la Google.
 
