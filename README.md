@@ -38,7 +38,9 @@ Dezavantaje:
 > *	marginile intunecate trebuie eliminate, etc.
 
 ## Keras-OCR -> https://pypi.org/project/keras-ocr/
-
+<div align="center">
+<img src = imgs/kerasocr.png alt="keras ocr" />
+</div>
 Sistem bazat pe doua modele :
 - un model de recunoastere al textului  https://github.com/kurapan/CRNN
 - un model de detectie al textului https://github.com/clovaai/CRAFT-pytorch
