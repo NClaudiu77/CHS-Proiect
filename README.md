@@ -71,4 +71,21 @@ Dezavantaje :
 Implementarea mea doreste sa porteze un sistem OCR pe un sistem embedded orientat pe aplicatii de AI si IOT si anume Maixduino.
 Sistem bazat pe algoritmi de Deep Learning implementati cu ajutorul bibliotecilor Tensorflow,  Numpy, TensorflowLite.
 
+<div align="center">
+<img src = imgs/project.png alt="keras ocr" />
+</div>
+
+
+## Seturile de date folosite
+> * MNIST Dataset https://keras.io/api/datasets/mnist/
+>* A-Z Dataset https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
+
+
+## Documentatie
+> * https://www.tensorflow.org/lite/
+> * https://keras.io/
+> * https://www.tensorflow.org/
+> * https://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/
+> * https://www.pyimagesearch.com/
+
 
